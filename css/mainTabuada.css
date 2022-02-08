@@ -1,0 +1,23 @@
+*{
+    margin: 0;
+    padding: 0;
+
+}
+#titulo{
+    width: inherit;
+    height: 80px;
+    background-color: #000000;
+    color: #ffffff;
+    box-sizing: border-box;
+    padding-top: 25px;
+    font-size: 26px;
+    font-family: verdana;
+    word-spacing: 5px;
+    letter-spacing: 3px;
+}
+#form{
+    width: inherit;
+    height: 185px;
+    padding-top: 20px;
+    box-sizing: border-box;
+}
