@@ -4,27 +4,24 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="css/style.css">
     <title>Web site</title>
-</head>
+    </head>
 <body>
     <header>
-        <div class="menu">
-            <nav>
-                <ul>
-                <li><a href="pages/media.php">Média</a></li>
-                <li><a href="pages/calculadora.php">Calculadora</a></li>
-                <li><a href="pages/tabuada.php">Tabuada</a></li>
-                <li></li><a href="PaginaPrincipal.html">Par e Impar</a></li>
-                </ul>
-            </nav>
-            <img src="img/logo.png" alt="">
-        </div>
-        <div class="logo">
-
+        <div class="container">
+            <div class="menu">
+                <a href="">Home</a>
+                <a href="pages/media.php">Média</a>
+                <a href="pages/calculadora.php">Calculadora</a>
+                <a href="pages/tabuada.php">Tabuada</a>
+                <a href="pages/parEImpar.php">Par E Impar</a>
+            </div>
         </div>
     </header>
-    <div>
-        <h1>Atividades PHP</h1>
-    </div>
+    <main>
+    <img src="img/calculadra.jpg" alt="">
+    </main>
 </body>
+
 </html>

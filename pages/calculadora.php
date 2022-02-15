@@ -3,8 +3,9 @@
 //include()
 //require()
 
-//require_once('modulo/funcoes/funCalculadora.php');
-//require_once('modulo/msgErro/msgCalculadora.php');
+require_once('modulo/msgErro/msgCalculadora.php');
+require_once('modulo/funcoes/funCalculadora.php');
+
 
 
 
